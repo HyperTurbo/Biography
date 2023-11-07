@@ -13,7 +13,8 @@ personal bio page - WORK IN PROGRESS
                 <div class="row" >
                     <div id="bio" class="col-12 col-lg-6" class="text-center">
                         <h1>Keven Yadiel Lopez Felix</h1>
-                        <img src="ProPIC.jpg" alt="default-profile-picture" class="img-fluid">
+                        <img src="WrongImage.jpg" alt="default-profile-picture" class="img-fluid">
+                        <h2> Here's my image of Revan. I've committed it to the repo, but maybe this isn't the right image?</h2>
                     </div>
                     <div id="more">  
                         <h2>About me</h2>  
